@@ -1,0 +1,17 @@
+[
+	{
+		"test": "#include<bits/stdc++.h>\nusing namespace std;\n"
+	},
+	{
+		"test": "5\n5 2 3 4 1\n"
+	},
+	{
+		"test": "5\n5 2 3 4 1\n\n"
+	},
+	{
+		"test": "5\n2 4 3 5 1\n"
+	},
+	{
+		"test": "7\n1 2 3 4 5 6 7\n"
+	}
+]

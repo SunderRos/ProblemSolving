@@ -1,0 +1,14 @@
+[
+	{
+		"test": "7\nbeat\nvet\nbeet\nbed\nvet\nbet\nbeet\n"
+	},
+	{
+		"test": "8\nbuffalo\nbuffalo\nbuffalo\nbuffalo\nbuffalo\nbuffalo\nbuffalo\nbuffalo\n"
+	},
+	{
+		"test": "7\nbass\nbass\nkick\nkick\nbass\nkick\nkick\n"
+	},
+	{
+		"test": "4\nushi\ntapu\nnichia\nkun\n"
+	}
+]

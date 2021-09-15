@@ -1,0 +1,17 @@
+[
+	{
+		"test": "kyoto\ntokyo\nd\ns\n\n"
+	},
+	{
+		"test": "abc\narc\n"
+	},
+	{
+		"test": "aaaaaaaaaaaaaaab\naaaaaaaaaaaaaaab\n"
+	},
+	{
+		"test": "sunde sunder\n"
+	},
+	{
+		"test": "kyoto\nto\n"
+	}
+]

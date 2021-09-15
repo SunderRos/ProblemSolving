@@ -1,0 +1,14 @@
+[
+	{
+		"test": "9\nbasic\nc\ncpp\nphp\npython\nnadesico\nocaml\nlua\nassembly\n"
+	},
+	{
+		"test": "4\nhoge\nenglish\nhoge\nenigma\n"
+	},
+	{
+		"test": "8\na\naa\naaa\naaaa\naaaaa\naaaaaa\naaa\naaaaaaa\n"
+	},
+	{
+		"test": "3\nabc\narc\nagc\n"
+	}
+]

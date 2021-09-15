@@ -1,0 +1,17 @@
+[
+	{
+		"test": "6\naabbca\n3\n123\n213\n12\n"
+	},
+	{
+		"test": "10\naaaaaaaaaa\n10\naaaaaaaaaa\n10\naaaaaaaaaa\n"
+	},
+	{
+		"test": "10\naaaaaaaaaa\n"
+	},
+	{
+		"test": "111\naaa\n"
+	},
+	{
+		"test": "45\ntgxgdqkyjzhyputjjtllptdfxocrylqfqjynmfbfucbir\n"
+	}
+]

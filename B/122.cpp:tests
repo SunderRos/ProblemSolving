@@ -1,0 +1,20 @@
+[
+	{
+		"test": "HATAGAYA\nsunder\nd\na\n"
+	},
+	{
+		"test": "abc\n3\n1\n2\n"
+	},
+	{
+		"test": "ATCODER\n"
+	},
+	{
+		"test": "HATAGAYA\n"
+	},
+	{
+		"test": "SHINJUKU\n"
+	},
+	{
+		"test": "AGCTKLAT\n"
+	}
+]

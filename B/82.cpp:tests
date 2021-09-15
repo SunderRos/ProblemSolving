@@ -1,0 +1,14 @@
+[
+	{
+		"test": "ratcode\natlas\n"
+	},
+	{
+		"test": "cd\nabc\n"
+	},
+	{
+		"test": "w\nww\n"
+	},
+	{
+		"test": "zzz\nzzz\n"
+	}
+]

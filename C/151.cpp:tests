@@ -1,0 +1,11 @@
+[
+	{
+		"test": "2 5\n1 WA\n1 AC\n2 WA\n2 AC\n2 WA\n"
+	},
+	{
+		"test": "100000 3\n7777 AC\n7777 AC\n7777 AC\n"
+	},
+	{
+		"test": "6 0\n"
+	}
+]
