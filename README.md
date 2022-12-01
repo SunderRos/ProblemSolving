@@ -1,1 +1,1 @@
-Solving Problems from ABC contest Atcoder
+Solving Easy Problems from ABC contest Atcoder
